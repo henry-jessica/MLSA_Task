@@ -12,6 +12,7 @@ import PropTypes from "prop-types";
 
 
 
+
 /**
  * Home background image
  *
